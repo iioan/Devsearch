@@ -14,13 +14,21 @@ Welcome to the **Devsearch**! This is a web application built with Django and Py
 
 ### Project Finished
 After my August update:
-- Users are able give feedback (Up Vote, Down Vote and Comments) to other published projects
+- Users are able give feedback (Up Vote, Down Vote and Comments) to other published projects 
 - Search function has been implemented for both projects and developers
 - For enhancing users' experience, I added pagination for projects and developers
 - Now everyone, even non-users of devsearch, are capable of sending messages to the registered developers
 
-![Alt text](/readmeimgs/inbox%20demo.png "hello")
+### Preview
+![developers](/readmeimgs/devpage.png "developers")
+![projects](/readmeimgs/projects.png "projects")
+![profile](/readmeimgs/profile_normal.png "user-profile")
+![myprofile](/readmeimgs/profile_afterlog.png "myprofile")
 
-### Pictures 
+![inbox](/readmeimgs/inbox%20demo.png "inbox")
+![message](/readmeimgs/1message.png "message")
 
-Thank you for your interest in the **Devsearch**. We hope you enjoy using the application and look forward to hearing your feedback.
+![project](/readmeimgs/project1.png "project")
+![feedback](/readmeimgs/project2.png "feedback")
+
+Thank you for your interest in **Devsearch**. I'm looking forward to hearing your feedback.
